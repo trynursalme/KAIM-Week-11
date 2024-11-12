@@ -1,0 +1,7 @@
+pandas
+yfinance
+matplotlib
+seaborn
+statsmodels
+pmdarima
+prophet
